@@ -1,0 +1,1 @@
+cmd_hahayes/techpack/audio/include/linux/mfd/.install := /bin/bash scripts/headers_install.sh hahayes/techpack/audio/include/linux/mfd ./techpack/audio/include/uapi/linux/mfd ; /bin/bash scripts/headers_install.sh hahayes/techpack/audio/include/linux/mfd ./techpack/audio/include/generated/uapi/linux/mfd ; touch hahayes/techpack/audio/include/linux/mfd/.install
